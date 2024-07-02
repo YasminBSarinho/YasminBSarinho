@@ -4,13 +4,6 @@
 - 🎓 Estou no segundo semestre do curso de análise e desenvolvimento de sistemas no IFPB
 - 🔍 Estou explorando as áreas da programação para decidir em qual área seguir
 
-&nbsp;
-
-<div>
-  <a href="https://github.com/yasminbsarinho">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yasminbsarinho&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminbsarinho&layout=compact&langs_count=7&theme=darcula"/>
-</div>
 
 &nbsp;
 
