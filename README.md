@@ -1,7 +1,7 @@
 # Olá, sou Yasmin Sarinho!
 
-- 🌱 Atualmente estou aprendendo programção orientada e objetos com java
-- 🎓 Estou no segundo semestre do curso de análise e desenvolvimento de sistemas no IFPB
+- 🌱 Atualmente estou aprendendo Spring Framework
+- 🎓 Estou no terceiro semestre do curso de análise e desenvolvimento de sistemas no IFPB
 - 🔍 Estou explorando as áreas da programação para decidir em qual área seguir
 
 
