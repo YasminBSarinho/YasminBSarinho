@@ -2,7 +2,6 @@
 
 - 🌱 Atualmente estou aprendendo Spring Framework
 - 🎓 Estou no terceiro semestre do curso de análise e desenvolvimento de sistemas no IFPB
-- 🔍 Estou explorando as áreas da programação para decidir em qual área seguir
 
 
 &nbsp;
