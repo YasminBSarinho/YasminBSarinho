@@ -1,7 +1,7 @@
 # Olá, sou Yasmin Sarinho!
 
 - 🌱 Atualmente estou aprendendo Spring Framework
-- 🎓 Estou no terceiro semestre do curso de análise e desenvolvimento de sistemas no IFPB
+- 🎓 Estou no querto semestre do curso de análise e desenvolvimento de sistemas no IFPB
 
 
 &nbsp;
